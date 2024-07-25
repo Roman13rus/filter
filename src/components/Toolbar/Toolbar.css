@@ -1,0 +1,13 @@
+button {
+    padding: 5px;
+    margin-left: 3px;
+    background-color: white;
+};
+
+.active {
+    background-color: grey;
+};
+
+.toolbar {
+    margin: 10px 300px;
+};

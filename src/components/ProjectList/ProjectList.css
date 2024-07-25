@@ -1,0 +1,10 @@
+.project_list {
+    margin: 5px 300px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.item {
+    max-width: 33%;
+    margin: 5px;
+}
